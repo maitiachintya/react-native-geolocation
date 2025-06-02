@@ -5,7 +5,7 @@
 The Geolocation API 📍 module for React Native that extends the [Geolocation web spec](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation). 
 
 Supports TurboModules ⚡️ and legacy React Native architecture.
-
+vhvhvhjh
 Fully compatible with TypeScript.
 
 Supports modern [Play Services Location API](https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient.html).
